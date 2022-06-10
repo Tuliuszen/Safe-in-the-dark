@@ -14,5 +14,5 @@
 -vol. setting
 
 #Images:
-![alt text](https://github.com/Tuliuszen/Safe-in-the-dark/tree/main/Imgs/1.png?raw=true)
+![](https://github.com/Tuliuszen/Safe-in-the-dark/tree/main/Imgs/1.png)
 
